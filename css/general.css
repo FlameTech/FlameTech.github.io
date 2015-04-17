@@ -1,0 +1,25 @@
+body {
+  background-color:#eee;
+}
+
+.bigerror {
+  margin-top: 100px; 
+  font-size: 50px; 
+  font-weight: 900;
+}
+
+.errordescription {
+  margin: 10px auto;
+  font-size: 25px;
+}
+
+.header-1 {
+  margin: 40px 0 5px; 
+  padding-bottom: 40px;
+  border-bottom-color: #ccc;
+}
+
+.intro{
+  font-weight: 700;
+  font-size: 18px;
+}
