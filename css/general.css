@@ -23,3 +23,8 @@ body {
   font-weight: 700;
   font-size: 18px;
 }
+
+.logo_gh {
+  height: 2em;
+  padding-right: 10px;
+}
